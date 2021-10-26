@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Christopher Prener</title>
+    <link>https://chris-prener.github.io/publication/</link>
+      <atom:link href="https://chris-prener.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017-2021 Christopher G. Prener</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chris-prener.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://chris-prener.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Associations of presidential voting preference and gubernatorial control with county-level COVID-19 case and death rates in the continental United States</title>
+      <link>https://chris-prener.github.io/publication/voting-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/voting-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excess mortality in the United States in 2020 - Forecasting and Anomaly Detection</title>
+      <link>https://chris-prener.github.io/publication/mortality-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/mortality-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodology Minute - A statistical test primer for infection prevention and control</title>
+      <link>https://chris-prener.github.io/publication/stats-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/stats-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 Screening Testing in Schools for Children with Intellectual and Developmental Disabilities</title>
+      <link>https://chris-prener.github.io/publication/children-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/children-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating Open Source Composite Geocoders - Pitfalls and Opportunities</title>
+      <link>https://chris-prener.github.io/publication/geocode-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/geocode-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demographic change, segregation, and the emergence of peripheral spaces in St. Louis, Missouri</title>
+      <link>https://chris-prener.github.io/publication/redlining-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/redlining-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What matters - Factors impacting the recovery process</title>
+      <link>https://chris-prener.github.io/publication/recovery-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/recovery-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevalence and Predictors of Limited Literacy among Public Mental Health Service Users</title>
+      <link>https://chris-prener.github.io/publication/literacy-2021/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/literacy-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resistance to Racial Equity in U.S. Federalism and its Impact on Fragmented Regions</title>
+      <link>https://chris-prener.github.io/publication/equity-2020/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/equity-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>St. Louis&#39;s &#39;Urban Prairie&#39; - Vacant Land and the Potential for Revitalization</title>
+      <link>https://chris-prener.github.io/publication/vacancy-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/vacancy-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the City in Sociology - Broadening and Deepening the Geographic Scope of the Urban and Inequality Literatures</title>
+      <link>https://chris-prener.github.io/publication/city-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/city-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An R Package for Correcting Continuous Water Quality Monitoring Data for Drift</title>
+      <link>https://chris-prener.github.io/publication/driftr-2019/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/driftr-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>areal - An R package for areal weighted interpolation</title>
+      <link>https://chris-prener.github.io/publication/areal-2019/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/areal-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Double Stigma of Limited Literacy and Mental Illness - Examining Barriers to Recovery and Participation among Public Mental Health Service Users</title>
+      <link>https://chris-prener.github.io/publication/literacy-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/literacy-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergency medical services and &#34;psych calls&#34; - Examining the work of urban EMS providers</title>
+      <link>https://chris-prener.github.io/publication/ems-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/ems-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movement Building and the United States Social Forum</title>
+      <link>https://chris-prener.github.io/publication/movement-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/movement-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Need for Trauma-Sensitive Language Use in Literacy and Health Literacy Screening Instruments</title>
+      <link>https://chris-prener.github.io/publication/literacy-2013/</link>
+      <pubDate>Fri, 04 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/literacy-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dualism, Job Polarization, and the Social Construction of Precarious Work</title>
+      <link>https://chris-prener.github.io/publication/work-2012/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/work-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

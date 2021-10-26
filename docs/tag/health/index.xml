@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>health | Christopher Prener</title>
+    <link>https://chris-prener.github.io/tag/health/</link>
+      <atom:link href="https://chris-prener.github.io/tag/health/index.xml" rel="self" type="application/rss+xml" />
+    <description>health</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017-2021 Christopher G. Prener</copyright><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chris-prener.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>health</title>
+      <link>https://chris-prener.github.io/tag/health/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>https://chris-prener.github.io/project/covid/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/project/covid/</guid>
+      <description>&lt;p&gt;My interest in public-facing work has inspired an &lt;a href=&#34;https://slu-opengis.github.io/covid_daily_viz/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eighteen-month public science project&lt;/a&gt; to compile and disseminate descriptive statistics about the SARS-CoV-2 pandemic in Missouri. You can view the &lt;a href=&#34;https://github.com/slu-openGIS/MO_HEALTH_Covid_Tracking&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data set creation code&lt;/a&gt; and data &lt;a href=&#34;https://github.com/slu-openGIS/covid_daily_viz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vizualization code&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In a manuscript currently under review for &lt;em&gt;Contexts&lt;/em&gt;, I describe this as a variation on our discipline&amp;rsquo;s notion of &amp;ldquo;public sociology&amp;rdquo; - descriptive empirical work rooted in moving public discourse, rather than disciplinary knowledge, forward.&lt;/p&gt;
+&lt;p&gt;I have leveraged these data with colleagues at all three major St. Louis universities and local community organizations for several publications and papers in progress. This work aims to understand variations in spatial and social factors associated with the pandemic.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Emergency Medical Services</title>
+      <link>https://chris-prener.github.io/project/ems/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/project/ems/</guid>
+      <description>&lt;p&gt;The Emergency Medical Services (EMS) project is my original graduate research project. Begun in 2009 as a pilot study and expanded between 2011 and 2015 as my dissertation research, the project has aimed to understand the experience urban EMS work. My interest in the topic is rooted in my own experience as an Emergency Medical Technician. This research has culminated in a book manuscript, &lt;em&gt;Medicine at the Margins&lt;/em&gt;, which is under contract with Fordham University Press and undergoing minor revisions after peer review.&lt;/p&gt;
+&lt;p&gt;In the book, I argue that three types of marginality define EMS work: (1) the EMS system has a tenuous relationship with both the formal health care system and the broader first responder system, existing in a gray area between the two; (2) marginalized work conditions, which include 24-hour shifts filled with downtime spent fighting boredom, characterize EMS work; and (3) EMS work in practice is defined not by the most acute patients but those with chronic mental health issues, substance use disorders, and housing instability who live in particular neighborhoods within cities. Providers&#39; views of where these patients live, which I measure with qualitative GIS techniques, diverge from more objective measures of EMS work in this city. These findings allow me to provide empirical evidence of how neighborhood stigmas arise through work routines and institutional practices.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Literacy and Mental Illness</title>
+      <link>https://chris-prener.github.io/project/literacy/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/project/literacy/</guid>
+      <description>&lt;p&gt;I have also focused on poor health through an NIH-funded project (R01 support now completed) designed to explore the effects that limited literacy has on the lives of individuals living with severe and persistent mental illness. This project includes collaborators at Northeastern University and the University of Adelaide in Australia. Our publications emphasize that limited literacy, when measured appropriately, is a significant barrier to recovery for mental health service consumers. A majority of individuals in our research read at or below the 8th-grade level, meaning that they read well below the population mean reading level in the United States. Moreover, we find that these individuals work to conceal both their identities as mental health service users and their limited literacy from others, believing that most people would judge them for one or both of these realities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Redlining, Segregation, and St. Louis</title>
+      <link>https://chris-prener.github.io/project/st-louis/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/project/st-louis/</guid>
+      <description>&lt;p&gt;This major project focuses on documenting the historical origins of neighborhood stigmas as well as their contemporary consequences. I use St. Louis as a case study, arguing in my &lt;em&gt;Sociology Compass&lt;/em&gt; article that urban sociology has systematically ignored cities in the literal and figurative American South. My work to date, published in &lt;em&gt;Journal of Urban Affairs&lt;/em&gt; and &lt;em&gt;Applied Geography&lt;/em&gt; as well as in several working papers, focuses on segregation, vacancy, violent crime, and poor health in the St. Louis region. Like &lt;a href=&#34;https://chris-prener.github.io/project/ems/&#34;&gt;my EMS work&lt;/a&gt;, I make extensive use of GIS techniques and am branching into machine learning with a computer science colleague as we look to general digital models of St. Louis neighborhoods lost to urban renewal efforts. These rely on processing historical maps and images, beginning with the former Mill Creek Valley neighborhood.&lt;/p&gt;
+&lt;p&gt;This overarching focus is the centerpiece of my research effort moving forward. I am developing a book prospectus tentatively titled &lt;em&gt;Detrimental Influences&lt;/em&gt; that builds on W.E.B. Du Bois and racial capitalism to connect historical racism in St. Louis with contemporary outcomes across the region. I see this as a natural extension of my prior work and Walter Johnson&amp;rsquo;s historical research. To support this work, I have multiple grants under review and in progress to support the creation of neighborhood-level health outcomes measures in St. Louis and other Missouri cities. These grant proposals address notoriously challenging data and statistical sources of bias for understanding the connections between &amp;ldquo;redlining,&amp;rdquo; historical racism, and contemporary health outcomes.&lt;/p&gt;
+&lt;p&gt;This project also has substantial community engagement. For example, I have worked with the &lt;a href=&#34;https://www.stlvacancy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;St. Louis Vacancy Collaborative&lt;/a&gt; to create a &lt;a href=&#34;http://stlvacancytools.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regularly updated inventory of vacant properties&lt;/a&gt; in the City of St. Louis and am supporting efforts to address vacancy and dumping in the suburb of Kinloch.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Emergency medical services and &#34;psych calls&#34; - Examining the work of urban EMS providers</title>
+      <link>https://chris-prener.github.io/publication/ems-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/publication/ems-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

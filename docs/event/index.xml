@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Christopher Prener</title>
+    <link>https://chris-prener.github.io/event/</link>
+      <atom:link href="https://chris-prener.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2017-2021 Christopher G. Prener</copyright><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chris-prener.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://chris-prener.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Fundamental Causes - Race, Class, and COVID-19 Disparities in St. Louis, MO</title>
+      <link>https://chris-prener.github.io/talk/fundamental-causes-race-class-and-covid-19-disparities-in-st.-louis-mo/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://chris-prener.github.io/talk/fundamental-causes-race-class-and-covid-19-disparities-in-st.-louis-mo/</guid>
+      <description>&lt;iframe class=&#34;speakerdeck-iframe&#34; frameborder=&#34;0&#34; src=&#34;https://speakerdeck.com/player/54cc61d4f66b4668b980fdfb1b4ff00a&#34; title=&#34;fundamental-causes-ances&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; style=&#34;border: 0px; background-color: rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-top-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-radius: 6px; border-bottom-left-radius: 6px; -webkit-background-clip: padding-box; -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 420px;&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
