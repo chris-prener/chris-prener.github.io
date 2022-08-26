@@ -1,0 +1,50 @@
+project:
+  type: website
+
+website:
+  title: "Christopher Prener"
+  site-url: "https://chris-prener.github.io/"
+  google-analytics: "G-M6RJVDFDVL"
+  navbar:
+    background: primary
+    left:
+      - href: /#medicine-at-the-margins
+        text: Book
+      - href: /#select-publications
+        text: Publications
+      - href: /#software
+        text: Software
+      - href: /#biography
+        text: Biography
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/christopher-prener-8728a457/
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=0PjCUTYAAAAJ&hl=en
+      - icon: github
+        href: https://github.com/chris-prener
+      - icon: twitter
+        href: https://twitter.com/chrisprener
+      - icon: instagram
+        href: https://www.instagram.com/chrisprener/
+      - icon: envelope-fill 
+        href: mailto:chris.prener@gmail.com
+  page-footer:  
+    left: "Site 🚀 by [Quarto](https://quarto.org/)"
+    right: "Copyright 2022 © Christopher Prener, licensed under a [CC-BY 4.0 License](http://creativecommons.org/licenses/by/4.0/)"
+  twitter-card:
+    creator: "@chrisprener"
+    card-style: summary
+  open-graph: true
+  favicon: icon.jpg
+
+format:
+  html:
+    theme: litera
+    smooth-scroll: true
+    css: styles.css
+    link-external-icon: false
+    link-external-newwindow: true
+
+editor: visual
+

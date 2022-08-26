@@ -1,0 +1,51 @@
+---
+title: Peer Reviewed Publications
+---
+
+## Refereed Monograph
+
+Prener, C. **2022**. *[Medicine at the Margins: EMS Workers in Urban America](https://www.fordhampress.com/9781531501082/medicine-at-the-margins/)*. New York, NY: Fordham University Press.
+
+## Refereed Articles
+
+- Wiemken, T., S. Niemotka, J. Clarke, C. Prener, and A. Santos Rutschman. **2022**. "[Estimating pediatric cases of COVID-19 over time in the United States: Filling in the gaps of public use data](https://doi.org/10.1016/j.ajic.2021.10.018)." *American Journal of Infection Control* 50(1):4-7.
+
+- Eden, J., J. Salas, A. Santos Rutschman, C. Prener, S. Niemotka, and T. Wiemken. **2021**. "[Associations of presidential voting preference and gubernatorial control with county-level COVID-19 case and death rates in the continental United States](https://doi.org/10.1016/j.puhe.2021.07.038)." *Public Health* 198:161-163.
+
+- Garverich, S., C. Prener, M. Guyer-Deason, and A. Lincoln. **2021**. "[What matters: Factors impacting the recovery process](https://doi.org/10.1037/prj0000407)." *Psychiatric Rehabilitation Journal* 44(1):77-86.
+
+- Lincoln, A., M. Eyllon, C. Prener, S. Garverich, J. Griffith, W. Adams, T. Arford, L. Rosenfeld, S. Nykiel, P. Johnson, M. Guyer-Deason, J. Leung, and M. Paasche-Orlow. **2021**. "[Prevalence and Predictors of Limited Literacy among Public Mental Health Service Users](https://doi.org/10.1007/s10597-020-00750-0)." *Community Mental Health Journal* 57(6):1175-1186.
+
+- Prener, C. **2021**. "[Demographic Change, Segregation, and the Emergence of Marginal Spaces in St. Louis, Missouri](https://doi.org/10.1016/j.apgeog.2021.102472)". *Journal of Applied Geography* 133:102472.
+
+- Prener, C. **2021**. "[Digitizing and Visualizing Sketch Map Data: A Semi-Structured Approach to Qualitative GIS](https://doi.org/10.3138/cart-2020-0030)." *Cartographica* 56(4):267-283.
+
+- Prener, C. and B. Fox. **2021**. "[Creating Open Source Composite Geocoders: Pitfalls and Opportunities](https://doi.org/10.1111/tgis.12741)." *Transactions in GIS* 25(4):1868-1887.
+
+- Prener, C., S. Gebauer, and K.L. Gilbert. **2021**. "[Measuring the Effect of Place, Socioeconomic Status, and Racism on Coronary Heart Disease: Recent Trends and Missed Opportunities](https://doi.org/10.1007/s40471-021-00281-6)." *Current Epidemiology Reports* 8(4):190-199.
+
+- Sherby, M., T. Walsh, A. Lai, J. Neidich, J. Balls-Berry, S. Morris, C. Prener, J. Newland, and C. Gurnett. **2021**. "[SARS-CoV-2 screening testing in schools for children with intellectual and developmental disabilities](https://doi.org/10.1186/s11689-021-09376-z)." *Journal of Neurodevelopmental Disorders* 13(1):1-11.
+
+- Wiemken T., A. Santos Rutschman, S. Niemotka S, and C. Prener. **2021**. "[Excess mortality in the United States in 2020: Forecasting and anomaly detection](https://doi.org/10.1016/j.ajic.2021.03.013)." *American Journal of Infection Control* 49(9):1189-1190.
+
+- Wiemken, T., S. Niemotka, and C. Prener. **2021**. ["Methodology Minute: A statistical test primer for infection prevention and control](https://doi.org/10.1016/j.ajic.2021.04.003)." *American Journal of Infection Control* 49(9):1162-1164.
+
+- Grigsby, S., A. Hernandez, D. Jones-Smith, K. Kaufman, C. Patrick, C. Prener, M. Tranel, and A. Udani. **2020**. "[Resistance to Racial Equity in U.S. Federalism and its Impact on Fragmented Regions](https://doi.org/10.1177/0275074020942063)." *The American Review of Public Administration* 50(6-7):658-667.
+
+- Prener, C. **2020**. "[Finding the City in Sociology: Broadening and Deepening the Geographic Scope of the Urban and Inequality Literatures](https://doi.org/10.1111/soc4.12756)." *Sociology Compass* 14(2):e12756.
+
+- Prener, C., T. Braswell, and D. Monti. **2020**. "[St. Louis's 'urban prairie': Vacant land and the potential for revitalization](https://doi.org/10.1080/07352166.2018.1474079)." *Journal of Urban Affairs* 42(3):371-389.
+
+- Prener, C. and C. Revord. **2019**. "[areal: An R package for areal weighted interpolation](https://joss.theoj.org/papers/10.21105/joss.01221)." *The Journal of Open Source Software* 4(37):1221.
+
+- Shaughnessy, A., C. Prener, and E. Hasenmuller. **2019**. "[An R Package for Correcting Continuous Water Quality Monitoring Data for Drift](https://doi.org/10.1007/s10661-019-7586-x)." *Environmental Monitoring & Assessment* 191(7):445.
+
+- Lincoln, A., W. Adams, M. Eyllon, S. Garverich, C. Prener, J. Griffith, M. Paasche- Orlow, and K. Hopper. **2017**. "[The double stigma of limited literacy and mental illness: Examining barriers to recovery and participation among public mental health service users](https://doi.org/10.1177/2156869317707001)." *Society and Mental Health* 7(3):121-141.
+
+- Prener, C. and A. Lincoln. **2015**. "[Emergency Medical Services and 'Psych Calls': Examining the Work of Urban EMS Providers](https://doi.org/10.1037/ort0000077)." *The American Journal of Orthopsychiatry* 85(6):612-619.
+
+- Juris, J., E. Bushell, M. Doran, M. Judge, A. Lubitow, and C. Prener. **2014**. "[Movement Building and the United States Social Forum](https://doi.org/10.1080/14742837.2013.841575)." *Social Movement Studies* 13(3):328-348.
+
+- Lincoln, A., T. Arford, C. Prener, S. Garverich, and K. Koenen. **2013**. "[The Need for Trauma-Sensitive Language Use in Literacy and Health Literacy Screening Instruments](https://doi.org/10.1080/10810730.2013.825676)." *Journal of Health Communication* 18(S1):15-19.
+
+- Vallas, S. and C. Prener. **2012**. "[Dualism, Job Polarization, and the Social Construction of Precarious Work](https://doi.org/10.1177/0730888412456027)." *Work and Occupations* 39(4):331-353.
