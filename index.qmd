@@ -7,9 +7,9 @@ about:
 ---
 
 ::: {#hero-heading}
-I am an **medical and urban sociologist** with an interest in disparities in infectious disease outcomes and vaccine access.
+I am *data scientist** passionate about building real world evidence data and software products that accelerate the production of insights.
 
-Currently, I work as a Director in Pfizer's Real World Evidence Center of Excellence,^[This site is also not sponsored or affiliated with Pfizer, Inc. Views and opinions expressed here are my own, and do not reflect the views of Pfizer, Inc. ] where I am a **biocurator scientist** focused on **vaccines**.
+Currently, I work as a Director in Pfizer's Evidence Generation Platform,[^1] where I am a **RWE Digital Platforms** specialist working across all of our theraputic areas.
 
 I specialize in health **disparities** research, **geospatial** mapping and analyses, the development of **open source research software**, and data acquisition.
 
@@ -18,13 +18,9 @@ I specialize in health **disparities** research, **geospatial** mapping and anal
 :::
 :::
 
+[^1]: This site is also not sponsored or affiliated with Pfizer, Inc. Views and opinions expressed here are my own, and do not reflect the views of Pfizer, Inc.
+
 ## *Medicine at the Margins*
-
-::: callout-note
-## Coming Soon
-
-*Medicine at the Margins* is available for pre-order and will be published on November 15, 2022!
-:::
 
 ![](cover.jpg){fig-alt="Medicine at the Margins Book Cover" fig-align="center"}
 
@@ -34,11 +30,11 @@ I specialize in health **disparities** research, **geospatial** mapping and anal
 
 The result of hundreds of hours spent riding with EMTs and Paramedics as well as fifty interviews, my book *Medicine at the Margins* is the culmination of a decade's worth of research on how urban EMS work forms a critical part of the social safety net. From the [publisher's website](https://www.fordhampress.com/9781531501082/medicine-at-the-margins/):
 
-> "While we imagine ambulances as a site for critical care, the reality is far more complicated. Social problems, like homelessness, substance abuse, and the health consequences of poverty, are encountered every day by Emergency Medical Services (EMS) workers. Written from the lens of a sociologist who speaks with the fluency of a former Emergency Medical Technician (EMT), *Medicine at the Margins* delves deeply into the world of EMTs and paramedics in American cities, an understudied element of our health care system.\
+> "While we imagine ambulances as a site for critical care, the reality is far more complicated. Social problems, like homelessness, substance abuse, and the health consequences of poverty, are encountered every day by Emergency Medical Services (EMS) workers. Written from the lens of a sociologist who speaks with the fluency of a former Emergency Medical Technician (EMT), *Medicine at the Margins* delves deeply into the world of EMTs and paramedics in American cities, an understudied element of our health care system.\
 > \
-> Like the public hospital, the EMS system is a key but misunderstood part of our system of last resort. *Medicine at the Margins* presents a unique prism through which urban social problems, the health care system, and the struggling social safety net refract and intersect in largely unseen ways. Author Christopher Prener examines the forms of marginality that capture the reality of urban EMS work and showcases the unique view EMS providers have of American urban life. The rise of neighborhood stigma and the consequences it holds for patients who are assumed by providers to be malingering is critical for understanding not just the phenomenon of non- or sub-acute patient calls but also why they matter for all patients. This sense of marginality is a defining feature of the experience of EMS work and is a statement about the patient population whom urban EMS providers care for daily. Prener argues that the pre-hospital health care system needs to embrace its role in the social safety net and how EMSs' future is in community practice of paramedicine, a port of a broader mandate of pre-hospital health care. By leaning into this work, EMS providers are uniquely positioned to deliver on the promise of community medicine.\
+> Like the public hospital, the EMS system is a key but misunderstood part of our system of last resort. *Medicine at the Margins* presents a unique prism through which urban social problems, the health care system, and the struggling social safety net refract and intersect in largely unseen ways. Author Christopher Prener examines the forms of marginality that capture the reality of urban EMS work and showcases the unique view EMS providers have of American urban life. The rise of neighborhood stigma and the consequences it holds for patients who are assumed by providers to be malingering is critical for understanding not just the phenomenon of non- or sub-acute patient calls but also why they matter for all patients. This sense of marginality is a defining feature of the experience of EMS work and is a statement about the patient population whom urban EMS providers care for daily. Prener argues that the pre-hospital health care system needs to embrace its role in the social safety net and how EMSs' future is in community practice of paramedicine, a port of a broader mandate of pre-hospital health care. By leaning into this work, EMS providers are uniquely positioned to deliver on the promise of community medicine.\
 > \
-> At a time when we are considering how to rely less on policing, the EMS system is already tasked with treating many of the social problems we think would benefit from less involvement with law involvement. *Medicine at the Margins* underscores why the EMS system is so necessary and the ways in which it can be expanded."
+> At a time when we are considering how to rely less on policing, the EMS system is already tasked with treating many of the social problems we think would benefit from less involvement with law involvement. *Medicine at the Margins* underscores why the EMS system is so necessary and the ways in which it can be expanded."
 
 ## Select Publications
 
@@ -72,12 +68,12 @@ I have several software projects under development right now, including returnin
 
 ## Biography
 
-Originally from Northern Virginia, I've lived in Maryland, upstate New York, and Massachusetts. I currently reside in St. Louis, Missouri. I am a 2008 graduate of St. Lawrence University (Canton, NY), where I majored in sociology and history. While there, I spent a semester studying at the University of Ulster's Magee Campus (Derry City, Northern Ireland).
+Originally from Northern Virginia, I've lived in Maryland, upstate New York, and Massachusetts. I currently reside in Ithaca, New York. I am a 2008 graduate of St. Lawrence University (Canton, NY), where I majored in sociology and history. While there, I spent a semester studying at the University of Ulster's Magee Campus (Derry City, Northern Ireland).
 
-After college, I started my doctoral studies at Northeastern University (Boston, MA), completing the research that led to [*Medicine at the Margins*](/#medicine-at-the-margins). Conducting fieldwork on Emergency Medical Services was a homecoming for me. Beginning in 2000, I spent nearly eight years at three different EMS agencies (Perinton Ambulance, St. Lawrence University EMS, and Canton Fire-Rescue). By 2008, I had worked as an ambulance dispatcher and built up six years of patient care experience, including four as an Emergency Medical Technician.
+After college, I started my doctoral studies at Northeastern University (Boston, MA), completing the research that led to [*Medicine at the Margins*](/#medicine-at-the-margins). Conducting fieldwork on Emergency Medical Services was a homecoming for me. Beginning in 2000, I spent nearly eight years at three different EMS agencies (Perinton Ambulance, St. Lawrence University EMS, and Canton Fire-Rescue). By 2008, I had worked as an ambulance dispatcher and built up six years of patient care experience, including four as an Emergency Medical Technician.
 
-I graduated with my Ph.D. from Northeastern in 2015. After finishing my doctorate, I spent seven years as a sociology faculty member at Saint Louis University (St. Louis, MO). During my time at SLU, I taught [Introduction to GIS](https://slu-soc5650.github.io/syllabus/), an [introductory level statistics course](https://slu-soc5050.github.io/syllabus/), [Introduction to Sociology](https://slu-soc1120.github.io/syllabus/) for pre-med students, and a class on HBO's [*The Wire*](/prener_the_wire.pdf). My research focused on social problems and health disparities in the St. Louis area, including segregation and vacancy. I also ran a two-year [COVID-19 tracking project for Missouri](https://slu-opengis.github.io/covid_daily_viz/) and a related newsletter called "[River City Data](https://chrisprener.substack.com)."
+I graduated with my Ph.D. from Northeastern in 2015. After finishing my doctorate, I spent seven years as a sociology faculty member at Saint Louis University (St. Louis, MO). During my time at SLU, I taught [Introduction to GIS](https://slu-soc5650.github.io/syllabus/), an [introductory level statistics course](https://slu-soc5050.github.io/syllabus/), [Introduction to Sociology](https://slu-soc1120.github.io/syllabus/) for pre-med students, and a class on HBO's [*The Wire*](/prener_the_wire.pdf). My research focused on social problems and health disparities in the St. Louis area, including segregation and vacancy. I also ran a two-year [COVID-19 tracking project for Missouri](https://slu-opengis.github.io/covid_daily_viz/) and a related newsletter called "[River City Data](https://chrisprener.substack.com)."
 
-My work on COVID-19 propelled me into my current role in the pharmaceutical industry. As a biocurator scientist, I use my data, social, and geospatial science skills to conduct vaccine research, build research software, and find new, non-traditional real world data sources.
+My work on COVID-19 propelled me into my current role in the pharmaceutical industry. My initial role at Pfizer was as a biocurator scientist, where I used my data, social, and geospatial science skills to conduct vaccine research, build research software, and find new, non-traditional real world data sources.
 
 I trace my love of maps to my time in the outdoors. I am an alumnus of the National Outdoor Leadership School (NOLS) and spent four years guiding backpacking, rock, and ice climbing trips in the Adirondacks during college. I continue to love to explore the mountains and wild places with my wife and my two daughters whenever we get the opportunity.
