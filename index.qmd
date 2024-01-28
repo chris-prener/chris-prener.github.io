@@ -7,7 +7,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am *data scientist** passionate about building real world evidence data and software products that accelerate the production of insights.
+I am **data scientist** passionate about building real world evidence data and software products that accelerate the production of insights.
 
 Currently, I work as a Director in Pfizer's Evidence Generation Platform,[^1] where I am a **RWE Digital Platforms** specialist working across all of our theraputic areas.
 
