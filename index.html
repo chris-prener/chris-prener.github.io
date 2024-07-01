@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.557">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -191,7 +191,7 @@ gtag('config', 'G-M6RJVDFDVL', { 'anonymize_ip': true});
   </div>
   <div class="about-contents"><div id="hero-heading">
 <p>I am <strong>data scientist</strong> passionate about building real world evidence data and software products that accelerate the production of insights.</p>
-<p>Currently, I work as a Director in Pfizer’s Evidence Generation Platform,<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> where I am a <strong>RWE Digital Platforms</strong> specialist working across all of our theraputic areas.</p>
+<p>Currently, I work as a Director in Pfizer’s RWE Platform,<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> where I am a <strong>RWE Digital Platforms</strong> specialist working across all of our theraputic areas.</p>
 <p>I specialize in health <strong>disparities</strong> research, <strong>geospatial</strong> mapping and analyses, the development of <strong>open source research software</strong>, and data acquisition.</p>
 <div class="center-buttons">
 <p><a href="./prener_resume.pdf" class="btn btn-primary" role="button">Resume</a> <a href="./prener_cv.pdf" class="btn btn-success" role="button">Academic CV</a></p>
@@ -343,6 +343,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {
@@ -384,7 +389,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
